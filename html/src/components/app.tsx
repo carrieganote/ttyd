@@ -20,7 +20,7 @@ const clientOptions = {
 } as ClientOptions;
 const termOptions = {
     fontSize: 13,
-    fontFamily: 'Menlo For Powerline,Consolas,Liberation Mono,Menlo,Courier,monospace',
+    fontFamily: 'Consolas,monospace',
     macOptionClickForcesSelection: true,
     macOptionIsMeta: true,
     theme: {
